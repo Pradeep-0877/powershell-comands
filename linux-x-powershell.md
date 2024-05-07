@@ -2,3 +2,5 @@
 
 ## ls == get-childitem
 
+## echo == write-host
+
